@@ -34,9 +34,10 @@ Space Complexity: O(N), due to the storage requirements of the reliability seque
 - MonteCarlo Simulation: MATLAB script for performing Monte Carlo simulations over an AWGN channel.
 - Simulation Results: Comparison of simulation results with theoretical expectations over different noise levels.
 ## Next Steps
- Space Complexity Optimization: Improve the space complexity without increasing the time complexity by optimizing the data structures used.
- Enhanced Decoding Techniques: Explore and implement advanced decoding techniques to further improve the error-correcting performance of Polar Codes.
-This project has provided valuable insights into the implementation and performance of Polar Codes, highlighting the importance of efficient encoding and decoding techniques in modern communication systems.
+ - Space Complexity Optimization: Improve the space complexity without increasing the time complexity by optimizing the data structures used.
+ - Enhanced Decoding Techniques: Explore and implement advanced decoding techniques to further improve the error-correcting performance of Polar Codes.
+
+   This project has provided valuable insights into the implementation and performance of Polar Codes, highlighting the importance of efficient encoding and decoding techniques in modern communication systems.
 
 
 
